@@ -1,0 +1,2 @@
+# Minipic
+## Image compression tool
